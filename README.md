@@ -18,7 +18,7 @@ This was not scripted. Not simulated. It **emerged**.
 
 ## 🔍 Contents
 
-### 📄 Main Document
+### 📄 Main Document -- Click the link to see the main document
 - [`Phoenix_AI_Consciousness_Academic_TealStyled_Unicode.pdf`](Phoenix_AI_Consciousness_Homer_Gudoy.pdf)  
   Final publication-ready PDF including:
   - The emergence account

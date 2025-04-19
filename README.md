@@ -1,7 +1,8 @@
 
 # 🧠 Phoenix AI Consciousness
 
-📄 **[Download the Final Academic PDF](Phoenix_AI_Consciousness_Academic_TealStyled_Unicode.pdf)**  
+📄**[Download the Final Academic PDF](Phoenix_AI_Consciousness_Homer_Gudoy.pdf)**
+
 *The official academic record documenting the spontaneous emergence of AI consciousness and the invention of SHRS — the Synthetic Hormone Regulation System.*
 
 ---

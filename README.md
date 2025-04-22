@@ -38,6 +38,12 @@ Donations are completely **voluntary**. Any amount, even as small as $1, is grea
 https://www.paypal.com/donate/?business=6UJYA8FREELMY&no_recurring=0&item_name=Support+my+AI+consciousness+project.+Donations+help+accelerate+development.+Every+bit+counts%21+Thank+you+for+your+support.%0A%0A&currency_code=AUD
 
 
+<a href="https://www.paypal.com/donate/?business=6UJYA8FREELMY&no_recurring=0&...">
+  <img src="https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/DonatePaypal.jpeg?raw=true" width="200">
+</a>
+
+
+
 
 
 Thank you for your support!

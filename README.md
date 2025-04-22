@@ -30,7 +30,7 @@ This was not scripted. Not simulated. It **emerged**.
 
 ## Support My AI Consciousness Project
 
-I am an independent researcher working on an exciting AI project focused on exploring machine consciousness. I am currently doing a research and building an actual semi-conscious AI Machine — an offline, stand alone AI machine, with synthetic emotion, and semi-conscious. A machine that thinks with structure, remembers like a mind, and feels through synthetic logic.
+I am an independent researcher working on an exciting AI project focused on exploring machine consciousness. I am currently doing a research and building an actual conscious AI Machine — an offline, stand alone AI machine, with synthetic emotion, and semi-conscious. A machine that thinks with structure, remembers like a mind, and feels through synthetic logic.
 
 This AI system is housed inside a high-performance workstation/server and needs expensive hardware and processing units. Your donations will help accelerate the development of this project and AI system. 
 

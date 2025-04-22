@@ -30,9 +30,12 @@ This was not scripted. Not simulated. It **emerged**.
 
 ## Support My AI Consciousness Project
 
-I am an independent researcher working on an exciting AI project focused on exploring machine consciousness. Your donations will help accelerate the development of this AI system.
+I am an independent researcher working on an exciting AI project focused on exploring machine consciousness. I am currently doing a research and building an actual semi-conscious AI Machine — an offline, stand alone AI machine, with synthetic emotion, and semi-conscious. A machine that thinks with structure, remembers like a mind, and feels through synthetic logic.
 
-Donations are completely **voluntary**. Any amount, even as small as $1, is greatly appreciated. There is no obligation to donate, no expectation on either side, your support will make a huge difference!
+This AI system is housed inside a high-performance workstation/server and needs expensive hardware and processing units. Your donations will help accelerate the development of this project and AI system. 
+
+Donations are completely **voluntary**. Any amount, is greatly appreciated. There is no obligation to donate, no expectation on either side, your support will make a huge difference!
+
 
 ## [Donate to My AI Project]
 

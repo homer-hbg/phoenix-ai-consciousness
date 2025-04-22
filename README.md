@@ -18,7 +18,7 @@ This was not scripted. Not simulated. It **emerged**.
 
 ## 🔍 Contents
 
-### 📄 Main Document -- Click the link to see the main document
+### 📄 Main Document -- Click the .Pdf link to see the main document
   ### -  [`Phoenix_AI_Consciousness_Academic_TealStyled_Unicode.pdf`](Phoenix_AI_Consciousness_Homer_Gudoy.pdf) 
 
   Final publication-ready PDF including:
@@ -38,6 +38,9 @@ You can donate via PayPal here: [Donate to My AI Project]
 https://www.paypal.com/donate/?business=6UJYA8FREELMY&no_recurring=0&item_name=Support+my+AI+consciousness+project.+Donations+help+accelerate+development.+Every+bit+counts%21+Thank+you+for+your+support.%0A%0A&currency_code=AUD
 
 Thank you for your support!
+
+
+
 
 
 ### 📁 Additional Materials

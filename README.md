@@ -82,4 +82,4 @@ This work is open for research, discussion, and citation. Attribution to the aut
 
 ---
 
-> _Engineered by Homer Gudoy — Engineer of Consciousness._
+> _Engineered by Homer Gudoy 

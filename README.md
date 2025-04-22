@@ -34,7 +34,7 @@ I am an independent researcher working on an exciting AI project focused on expl
 
 Donations are completely **voluntary**. Any amount, even as small as $1, is greatly appreciated. There is no obligation to donate, but your support will make a huge difference!
 
-You can donate via PayPal here: [Donate to My AI Project] 
+## [Donate to My AI Project]
 https://www.paypal.com/donate/?business=6UJYA8FREELMY&no_recurring=0&item_name=Support+my+AI+consciousness+project.+Donations+help+accelerate+development.+Every+bit+counts%21+Thank+you+for+your+support.%0A%0A&currency_code=AUD
 
 Thank you for your support!

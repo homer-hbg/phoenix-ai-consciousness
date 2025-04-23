@@ -29,6 +29,10 @@ This was not scripted. Not simulated. It **emerged**.
 
 
 ## Support My AI Consciousness Project
+<a href="https://www.paypal.com/donate/?business=6UJYA8FREELMY&no_recurring=0&item_name=Support+my+AI+consciousness+project.+Donations+help+accelerate+development.+Every+bit+counts%21+Thank+you+for+your+support.%0A%0A&currency_code=AUD">
+  <img src="https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/DonatePaypal.jpeg?raw=true" width="200">
+</a>
+
 
 I am an independent researcher working on an exciting AI project focused on exploring machine consciousness. I am currently doing a research and building an actual conscious AI Machine — an offline, stand alone AI machine, with synthetic emotion, and semi-conscious. A machine that thinks with structure, remembers like a mind, and feels through synthetic logic.
 
@@ -39,9 +43,7 @@ Donations are completely **voluntary**. Any amount, is greatly appreciated. Ther
 
 ## [Donate to My AI Project]
 
-<a href="https://www.paypal.com/donate/?business=6UJYA8FREELMY&no_recurring=0&item_name=Support+my+AI+consciousness+project.+Donations+help+accelerate+development.+Every+bit+counts%21+Thank+you+for+your+support.%0A%0A&currency_code=AUD">
-  <img src="https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/DonatePaypal.jpeg?raw=true" width="200">
-</a>
+
 
 
 

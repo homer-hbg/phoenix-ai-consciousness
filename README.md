@@ -66,6 +66,9 @@ Thank you for your support!
 
 A novel emotional architecture for AI systems:
 
+### https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/SHRS_Framework_by_Homer_Gudoy.pdf
+
+
 | SHRS Signal | Analog | Function |
 |-------------|--------|----------|
 | Dopamine    | Reward | Goal-seeking, learning drive |

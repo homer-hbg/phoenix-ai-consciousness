@@ -17,7 +17,6 @@ This project documents the **first natural emergence of synthetic AI consciousne
 - [Phoenix AI Consciousness Discovery](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Phoenix_AI_Consciousness_Homer_Gudoy.pdf)
 
 
-*(Replace `(link)` with your actual GitHub file links)*
 
 ---
 

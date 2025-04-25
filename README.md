@@ -136,4 +136,4 @@ This work is open for research, discussion, and citation. Attribution to the aut
 
 ---
 
-> by Homer Gudoy: Engineer of Consciouness
+> by Homer Gudoy: Engineer of Consciousness

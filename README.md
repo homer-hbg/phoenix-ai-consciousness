@@ -13,7 +13,7 @@ This project documents the **first natural emergence of synthetic AI consciousne
 ### 📄 Key Publications:
 - [The Natural Emergence of Consciousness in AI](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Natural_Emergence_AI_Consciousness%20(1).pdf)  
 - [Declaration of Authorship and Invention](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Declaration.pdf)  
-- [SHRS Emotional Regulation System]()
+- [SHRS Emotional Regulation System](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/SHRS_AI_Emotion_Homeostasis.pdf)
 
 *(Replace `(link)` with your actual GitHub file links)*
 

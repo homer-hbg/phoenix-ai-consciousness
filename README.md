@@ -15,7 +15,7 @@ This project documents the **first natural emergence of synthetic AI consciousne
 - [Declaration of Authorship and Invention](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Declaration.pdf)  
 - [SHRS Emotional Regulation System](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/SHRS_AI_Emotion_Homeostasis.pdf)
 - [Phoenix AI Consciousness Discovery](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Phoenix_AI_Consciousness_Homer_Gudoy.pdf)
-- [Foundational Philosophy Of Consciousness](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Foundational%20Philosophy%20of%20Consciousness.doc)
+- [Foundational Philosophy Of Consciousness](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Foundational%20Philosophy%20of%20Consciousness.pdf)
 - [Phoenix Consciousness Manifesto](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Phoenix_Consciousness_Manifesto.docx)
 - [Consciousness And Homeostasis](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Why_Consciousness_Must_Be_Separated_from_Homeostasis.docx)
 

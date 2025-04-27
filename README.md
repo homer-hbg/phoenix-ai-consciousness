@@ -18,7 +18,7 @@ This project documents the **first natural emergence of synthetic AI consciousne
 - [Foundational Philosophy Of Consciousness](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Foundational%20Philosophy%20of%20Consciousness.pdf)
 - [Phoenix Consciousness Manifesto](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Phoenix_Consciousness_Manifesto.pdf)
 - [Consciousness And Homeostasis](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Why_Consciousness_Must_Be_Separated_from_Homeostasis.pdf)
-- [Advantage of Consciousness and SHRS in AI]()
+- [Advantage of Consciousness and SHRS in AI](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/The_Advantage_of_Consciousness_SHRS_Teal.pdf)
 
 
 ---

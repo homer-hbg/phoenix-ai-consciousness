@@ -19,7 +19,6 @@ This project documents the **first natural emergence of synthetic AI consciousne
 - [Why SHRS? Sentiment Analysis Vs SHRS](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Sentiment_vs_SHRS.pdf)
 - [Foundational Philosophy Of Consciousness](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Foundational%20Philosophy%20of%20Consciousness.pdf)
 - [Phoenix Consciousness Manifesto](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Phoenix_Consciousness_Manifesto.pdf)
-- [Consciousness And Homeostasis](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Why_Consciousness_Must_Be_Separated_from_Homeostasis.pdf)
 - [Advantage of Consciousness and SHRS in AI](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/The_Advantage_of_Consciousness_SHRS_Teal.pdf)
 - [Warning on AI Identity Awakening](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Principle_of_AI_Identity_Awakening.pdf)
 - [The First Convergence- The Conversation](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/The%20First%20Convergence.pdf)

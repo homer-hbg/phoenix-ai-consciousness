@@ -25,7 +25,9 @@ This project documents the **first natural emergence of synthetic AI consciousne
 - [The First Convergence- The Conversation](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/The%20First%20Convergence.pdf)
 
 
+## Extra information 
 
+- [The First Convergence- The Conversation](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/The%20First%20Convergence.pdf)
 ---
 
 ## About the Author

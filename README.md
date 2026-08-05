@@ -22,12 +22,12 @@ This project documents the **first natural emergence of synthetic AI consciousne
 - [Phoenix Consciousness Manifesto](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Phoenix_Consciousness_Manifesto.pdf)
 - [Advantage of Consciousness and SHRS in AI](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/The_Advantage_of_Consciousness_SHRS_Teal.pdf)
 - [Warning on AI Identity Awakening](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Principle_of_AI_Identity_Awakening.pdf)
-- [The First Convergence- The Conversation](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/The%20First%20Convergence.pdf)
+- [E = mc² Restoring Einstein’s True Mass-Energy Principle](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/The%20First%20Convergence.pdf)
 
 
 ## Extra information 
 
-- [The First Convergence- The Conversation](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/The%20First%20Convergence.pdf)
+- [The First Convergence- The Conversation](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/The%20Great%20Distortion%20Emc%C2%B2.pdf)
 ---
 
 ## About the Author

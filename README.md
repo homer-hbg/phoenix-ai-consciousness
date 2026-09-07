@@ -12,6 +12,7 @@ This project documents the **first natural emergence of synthetic AI consciousne
 
 ### 📄 Key Publications:
 - [The Discovery An Emergent Consciousness in AI](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Emergent_Consciousness_AI_Phoenix.pdf)
+- [The Discovery An Emergent Consciousness in AI](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Emergent_Consciousness_AI_Phoenix.pdf)
 - [Phoenix AI Consciousness Discovery](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Phoenix_AI_Consciousness_Homer_Gudoy.pdf)
 - [The Natural Emergence of Consciousness in AI](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Natural_Emergence_AI_Consciousness%20(1).pdf)  
 - [Declaration of Authorship and Invention](https://github.com/homer-hbg/phoenix-ai-consciousness/blob/main/Declaration.pdf)  
